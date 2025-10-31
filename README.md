@@ -16,7 +16,7 @@ CvPrinter is a sister library and a fork of [InvoicePrinter](https://github.com/
 
 | Simple invoice |
 | -------------- |
-| <a href="https://github.com/strzibny/cv_printer/raw/master/examples/promo.pdf"><img src="./examples/picture.jpg" width="180" /></a>|
+| <a href="https://github.com/strzibny/cv_printer/raw/master/examples/simple_cv.pdf"><img src="./examples/example.png" width="180" /></a>|
 
 See more usecases in the `examples/` directory.
 
