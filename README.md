@@ -1,8 +1,6 @@
 # CvPrinter
 
-**Super simple CV and resume PDF generator.** CvPrinter is a pure Ruby library to generate CVs and resumes in no time. You can use Ruby or JSON as the invoice representation to build the final PDF.
-
-CvPrinter is a sister library and a fork of [InvoicePrinter](https://github.com/strzibny/invoice_printer).
+**Super simple CV and resume PDF generator.** CvPrinter is a pure Ruby library to generate CVs and resumes in no time. CvPrinter is a sister library and a fork of [InvoicePrinter](https://github.com/strzibny/invoice_printer).
 
 **This is just a preview. Most things aren't implemented and the gem is not released.**
 
@@ -14,7 +12,7 @@ CvPrinter is a sister library and a fork of [InvoicePrinter](https://github.com/
 
 ## Examples
 
-| Simple invoice |
+| Simple resume |
 | -------------- |
 | <a href="https://github.com/strzibny/cv_printer/raw/master/examples/simple_cv.pdf"><img src="./examples/example.png" width="180" /></a>|
 
